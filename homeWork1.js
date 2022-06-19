@@ -18,7 +18,7 @@ const films2 = prompt('Один из последних просмотренны
 const ocenka =prompt('На сколько оцените его?',"");
 const ocenka2 =prompt('На сколько оцените его?',"");
 
-personalMovieDB.movies[films]= ocenka;
+personalMovieDB.movies[films] = ocenka;
 personalMovieDB.movies[films2]= ocenka2;
 
 console.log(personalMovieDB);
