@@ -27,23 +27,6 @@
 // alert(myName);
 
 
-console.log(5 + + "4");
 
-let incr = 10,
-    decr = 11;
+let numberOfFilms = + prompt("Сколько фильмов вы уже посмотрели?");
 
-incr++;
-decr--;
-
-console.log(incr);
-console.log(decr);
-
-
-console.log(5%2);
-
-console.log(2*4==9);
-
-const isCheked = true,
-      isClose = false;
-
-console.log(isCheked|| isClose);
