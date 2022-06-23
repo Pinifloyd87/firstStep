@@ -18,3 +18,5 @@ const d = +prompt('Какая оценка','');
 
 personalMovieDB.movies[a]= b;
 personalMovieDB.movies[c]= d;
+
+console.log(personalMovieDB);
